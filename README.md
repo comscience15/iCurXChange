@@ -12,3 +12,4 @@ This is a React App using React, React Query, Axios &amp; Chakra-UI. This app is
   - $yarn add axios
   
 ## Screenshot
+![demo](https://github.com/comscience15/iCurXChange/blob/main/demo.gif)
